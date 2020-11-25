@@ -1,0 +1,9 @@
+How to Build a Learning Machine
+https://superorganizers.substack.com/p/how-to-build-a-learning-machine
+Simon Eskildsen
+The one thing I do try to follow is to go on streaks of reading a lot of books on a particular topic around the same time. Doing this is useful because it means I don’t have to just trust one author’s perspective on a particular topic — and helps me connect a lot of facts together, so I can understand things better.
+When I highlight something from a book that contains an idea, concept, metaphor, or generally something more abstract, I’ll put it into my Zettelkasten instead of my flashcard system. These highlights aren’t to be remembered, they are to be connected.
+Zettelkasten
+https://github.com/sirupsen/zk
+So that’s what I find helpful — knowing all of these facts becomes a kind of memory connector.
+It gives you this web of facts for you to put new information into context, and answer questions with deduction without having to go look something up.

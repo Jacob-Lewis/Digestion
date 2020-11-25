@@ -1,0 +1,20 @@
+Roam’s Road Ahead
+https://divinations.substack.com/p/roams-road-ahead
+There’s almost zero barrier to entry to creating a new todo list business, so the market price is pretty close to $0.
+This is because anyone with programming and design skills can build a todo list app, and if you prefer the design there’s not much keeping you tied to your current app. Personal todo lists don’t depend on others using the same system (no network effects) and it doesn’t matter to most people if your old todos aren’t there (low switching costs).
+The best software businesses are networks. When every new user that joins makes the network more valuable for the other users, it leads to a sort of accelerating value and growth that is one of the most powerful forces in the world. Nobody can copy the value you provide, because the value isn’t derived from your functionality, it comes from your user base.
+raised at a $200m valuation that wouldn’t be the end of the world. But now, the indie hacker path is out of the question.
+When they’re strong enough to matter, they’re usually there from the very beginning, built into the core reason why people use the product in the first place.
+Now that I’m using Roam, I’m confident my notes will remain useful long into the future, so I’ve increased the quality and quantity of the notes I take.
+Notion just added Roam’s signature bi-directional link functionality, and there are already open-source “Roam compatible” apps on the horizon, like Athens.
+Roam does currently have indirect network effects working in its favor. There’s a great community of people sharing techniques for using Roam effectively, and, at some level, their user base led to the funding round, which will lead to further product and growth, which will lead to further revenue and perhaps funding.
+The default trajectory leads towards intellectual nerds, purchasing on their own and using Roam privately. This is typical of Roam’s current usage patterns, but won’t satisfy Roam’s investors. The swerve leads towards organizational collaboration, network effects, and enterprise customers.
+The default trajectory leads towards intellectual nerds, purchasing on their own and using Roam privately. This is typical of Roam’s current usage patterns, but won’t satisfy Roam’s investors. The swerve leads towards organizational collaboration, network effects, and enterprise customers.
+Gaining product-market fit with the team use case is going to be a fairly independent endeavor from gaining product-market fit with individuals.
+When people think of Roam, they think of personal use.
+Roam is more focused on power users who are willing to put quite a bit of effort into learning a new paradigm.
+version control with support for branching realities within ideas” that will win you points with your core users.
+The core question for Roam is: what kind of teams will use it? Which tools does it replace, and which tools does it co-exist with? It’s hard to see the path clearly.
+It’d be like a giant public brain, instead of a private second brain.
+The only problem is, I’ve seen a lot of “public Roams” but I never enjoy the reading experience. Non-linear “digital gardens” of notes are of immense usefulness, but only so long as the individual nodes provide quality linear reading experiences. And it’s not impossible to do so in Roam, but I’ve rarely seen it.
+the publishing platform of choice is determined by other questions, such as where are my ideas going to make the most impact, where can I make the most money, what banner can I publish under that will lend me the most credibility.

@@ -1,0 +1,17 @@
+Trade-offs are Your Friend
+https://divinations.substack.com/p/trade-offs-are-your-friend
+The sign of a good strategy is that it makes some customers unhappy
+Trade-offs
+Economy vs luxury
+Quality vs size
+Simplicity vs control
+Force vs agility
+Risk vs reward
+Porter outlines three main sources of trade-offs within businesses:
+Product - If I want a big truck to haul timber, and you want a little car to park in a tight city street, the same product is not going to serve both of our needs.
+Operations - The engineering process you need for creating cardiac pacemakers is going to be quite a bit tighter than the process you’d use for developing a podcast app. Safety trades off with speed, in this case.
+Brand - Tiffany’s can’t offer discount jewelry without tarnishing their reputation as a high-end luxury brand.
+But most of the time, the company that attempts to eliminate a trade-off just ends up “straddling,” and gets the worst of both worlds.
+The answer we get from Porter is that managers should copy tactics, not strategy, and only when the tactics clearly enhance the business you’re already in.
+In the case of Facebook, the strategy was to increase sharing and “time spent in the app,” in order to increase ad impressions. So the “stories” format plugged almost perfectly into their overall system.
+In the case of Wal-Mart, the strategy was to be the best low-cost, general-purpose retailer.

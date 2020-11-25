@@ -1,0 +1,23 @@
+Finding Power
+https://divinations.substack.com/p/finding-power
+People think strategy is about profit, but really, it’s about [[Power]]. Profit is just the prize.
+At every step in the process, businesses are trying to make as much money as possible. But they will not all succeed. Some positions in the [[ValueChain]] are destined to generate unimaginable wealth for the businesses that occupy them, while other positions are doomed to subsistence profitability.
+The key to predicting where power will sit in any value chain, [[Clayton M. Christensen]] realized, is to identify where you can improve the thing that’s most painfully lacking in the user experience. In other words: focus on what is not yet good enough.
+Here’s the thing: In order to improve what’s not good enough in the user experience, you need to have control over the layers of the value chain where the problems are. And, critically, you need to maintain that position, or find a new one if/when the problems move somewhere else.
+When the most important problem in a value chain moves away from you, so does your power.
+In any value chain, some companies own the important integrations, and others have to conform to what those integrators need. The way this works is simple: natural selection.
+In order to gain power, you want to control the layers of the value chain where performance is not good enough. You want to be the integrator. And — paradoxically — in order to keep that power, you’d better hope performance stays not good enough for a long time, despite the constant improvements you keep introducing in order to stay ahead of the competition.
+You want your improvements to continue to matter to people. If not — if you become “good enough,” and the problems move elsewhere — then commoditization is inevitable.
+The idea of “good enough”
+One way Clay Christensen describes it that I like, is to ask whether buyers “are able to utilize” performance improvements. This makes it clear that performance is always relative to the customer’s job to be done. If it’s not useful for the job, it doesn’t matter.
+let’s quickly recap what we’ve learned about the theory of “Conservation of Modularity” so far:
+Value chains evolve to serve consumer “jobs to be done”
+The biggest problem that most customers experience with the current value chain is the “basis of competition” #BasisOfCompetition
+The way to solve the problem is to control the layers of the value chain where the problems arise, and integrate them together in a new way that makes things better for buyers.
+Do this well, and you are in a potentially powerful position.
+As you gain adoption (and power), your partners in the value chain that live upstream and downstream from you will come under increasing pressure to modularize and conform to your needs, so you can keep improving performance for buyers along the basis of competition.
+If you overshoot buyers’ needs, your product becomes “good enough.” This is a dangerous situation, because the basis of competition could change, and the important integration you controlled could become less important.
+Coca-Cola’s power is derived from their control over the integration between flavors and brands.
+Most shows weren’t created with the assumption that people could start from episode 1. So, in order to conform to the limitations of cable providers, they were “episodic,” meaning each episode was modular and mostly stood alone. It didn’t require you to have prior knowledge of the plot or characters — which raises the floor but also lowers the ceiling of entertainment value.
+Netflix’s power is derived from their integration of content and screens.
+There is a certain amount of power in every value chain, and that power cannot be created or destroyed, it only can be transformed. The power is a reflection of who controls the important integration point, and who is providing a less-important modularized component. Therefore, if the important integration point shifts (as was the case in the Netflix example), then the layers of the value chain that used to have power will lose their power, and they must modularize and conform to what the integrator needs. (As was exactly the case with cable providers and television sets.) Thus: modularity, power, and profits are all “conserved.”
